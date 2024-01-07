@@ -26,4 +26,4 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tant
 ## Contacto
 Si tienes alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dudes en contactarnos.
 
-Este documento fue generado por David Salazar Rodero, y la última actualización fue hecha el 10/12/2023. Mind Harmony puede cambiar esta política ocasionalmente, a su discreción.
+Este documento fue generado por David Salazar Rodero, y la última actualización fue hecha el 07/01/2024. Mind Harmony puede cambiar esta política ocasionalmente, a su discreción.
