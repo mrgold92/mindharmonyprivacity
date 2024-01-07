@@ -1,5 +1,5 @@
 # Política de Privacidad para Mind Harmony
-Última actualización: 10/12/2023
+Última actualización: 07/01/2024
 
 En Mind Harmony, accesible desde la aplicación Mind Harmony, una de nuestras principales prioridades es la privacidad de nuestros usuarios. Esta Política de Privacidad documenta los tipos de información que Mind Harmony no recoge y cómo no la usamos.
 
